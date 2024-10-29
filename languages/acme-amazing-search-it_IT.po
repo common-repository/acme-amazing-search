@@ -1,0 +1,224 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Acme Amazing Search\n"
+"POT-Creation-Date: 2016-11-26 17:09+0100\n"
+"PO-Revision-Date: 2016-11-26 17:15+0100\n"
+"Last-Translator: Mirko Bianco <mirko@acmemk.com>\n"
+"Language-Team: \n"
+"Language: it_IT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7.1\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: languages\n"
+"X-Poedit-SearchPath-1: .\n"
+
+#: admin/class-acme-amazing-search-admin.php:125
+msgid "Settings"
+msgstr "Impostazioni"
+
+#: admin/partials/acme-amazing-search-admin-display.php:60
+msgid "Main Settings"
+msgstr "Impostazioni Principali"
+
+#: admin/partials/acme-amazing-search-admin-display.php:62
+#: admin/partials/acme-amazing-search-admin-display.php:66
+msgid "Search in Posts"
+msgstr "Cerca nei Post"
+
+#: admin/partials/acme-amazing-search-admin-display.php:70
+#: admin/partials/acme-amazing-search-admin-display.php:74
+msgid "Search in Pages"
+msgstr "Cerca nelle Pagine"
+
+#: admin/partials/acme-amazing-search-admin-display.php:79
+#: admin/partials/acme-amazing-search-admin-display.php:83
+msgid "Search in Products"
+msgstr "Cerca nei Prodotti"
+
+#: admin/partials/acme-amazing-search-admin-display.php:87
+#: admin/partials/acme-amazing-search-admin-display.php:91
+msgid "Search in SKU"
+msgstr "Attiva ricerca per SKU"
+
+#: admin/partials/acme-amazing-search-admin-display.php:96
+#: admin/partials/acme-amazing-search-admin-display.php:98
+msgid "Search in custom post-types:"
+msgstr "post-types aggiuntivi:"
+
+#: admin/partials/acme-amazing-search-admin-display.php:101
+#: admin/partials/acme-amazing-search-admin-display.php:154
+msgid "(Comma separated values with no spaces)"
+msgstr "(Valori separati da virgola, senza spazi)"
+
+#: admin/partials/acme-amazing-search-admin-display.php:105
+msgid "Extend search:"
+msgstr "Estendere la Ricerca:"
+
+#: admin/partials/acme-amazing-search-admin-display.php:107
+#: admin/partials/acme-amazing-search-admin-display.php:111
+msgid "Search in Categories"
+msgstr "Cerca nelle Categorie"
+
+#: admin/partials/acme-amazing-search-admin-display.php:115
+#: admin/partials/acme-amazing-search-admin-display.php:119
+msgid "Search in Tags"
+msgstr "Cerca nei Tag"
+
+#: admin/partials/acme-amazing-search-admin-display.php:124
+#: admin/partials/acme-amazing-search-admin-display.php:128
+msgid "Search in Brands"
+msgstr "Cercha nei Marchi"
+
+#: admin/partials/acme-amazing-search-admin-display.php:132
+#: admin/partials/acme-amazing-search-admin-display.php:136
+msgid "Search in Product Categories"
+msgstr "Cerca nelle Categorie Prodotto"
+
+#: admin/partials/acme-amazing-search-admin-display.php:140
+#: admin/partials/acme-amazing-search-admin-display.php:144
+msgid "Search in Product Tags"
+msgstr "Cerca nei Tag Prodotto"
+
+#: admin/partials/acme-amazing-search-admin-display.php:149
+#: admin/partials/acme-amazing-search-admin-display.php:151
+msgid "Search in custom terms:"
+msgstr "Terms aggiuntivi:"
+
+#: admin/partials/acme-amazing-search-admin-display.php:158
+msgid "Search Options:"
+msgstr "Opzioni di Ricerca:"
+
+#: admin/partials/acme-amazing-search-admin-display.php:160
+#: admin/partials/acme-amazing-search-admin-display.php:164
+msgid "Search in Title"
+msgstr "Cerca nel Titolo"
+
+#: admin/partials/acme-amazing-search-admin-display.php:168
+#: admin/partials/acme-amazing-search-admin-display.php:172
+msgid "Search in Excerpt"
+msgstr "Cerca nei Riassunti"
+
+#: admin/partials/acme-amazing-search-admin-display.php:176
+msgid "Show All behaviour:"
+msgstr "Comportamento di Mostra Tutti:"
+
+# Questa opzione consente di modificare il comportamenteo del pulsante "Mostra Tutti" che apparirà in coda ai risultati di ricerca. Da qui è possibile scegliere se inviare l'utente alla pagina dei risultati di ricerca standard di wordpress per il termine ricercato, oppure - nel caso la ricerca effettuata produca dei valori univoci per tassonomia/categorie - inviare l'utente alla tassonomia medesima. Esempio: se l'utente digita 'jeans' nella casella di ricerca, appariranno una serie di risultati per jeans (slavati, chiari, scuri, etc...) e solo una categoria 'jeans'. In questo caso il "mostra tutti" invierà il visitatore alla categoria e non alla pagina di ricerca di wordpress (che potrebbe ad esempio visualizzare anche camicie in jeans, giubbetti in jeans e non solo jeans intesi come pantaloni).
+#: admin/partials/acme-amazing-search-admin-display.php:178
+msgid "<i>Show All</i> behaviour:"
+msgstr "Comportamento di <i>Mostra Tutti</i>:"
+
+#: admin/partials/acme-amazing-search-admin-display.php:180
+msgid "Do default WordPress search"
+msgstr "Applica la ricerca predefinita di WordPress"
+
+#: admin/partials/acme-amazing-search-admin-display.php:181
+msgid "Category/Tag unique result"
+msgstr "Invia a Categoria/Tag/Marca per risultati univoci"
+
+#: admin/partials/acme-amazing-search-admin-display.php:186
+#: admin/partials/acme-amazing-search-admin-display.php:188
+msgid "WP Search in specific post_type:"
+msgstr "Restringi la ricerca standard di WP a uno specifico post_type:"
+
+#: admin/partials/acme-amazing-search-admin-display.php:190
+msgid "default"
+msgstr "Predefinito"
+
+#: admin/partials/acme-amazing-search-admin-display.php:198
+msgid "Search Results:"
+msgstr "Risultati:"
+
+#: admin/partials/acme-amazing-search-admin-display.php:200
+#: admin/partials/acme-amazing-search-admin-display.php:202
+msgid "Show all text:"
+msgstr "Testo per <i>Mostra Tutti</i>:"
+
+#: admin/partials/acme-amazing-search-admin-display.php:208
+#: admin/partials/acme-amazing-search-admin-display.php:212
+msgid "Show Title"
+msgstr "Mostra Titolo"
+
+#: admin/partials/acme-amazing-search-admin-display.php:216
+#: admin/partials/acme-amazing-search-admin-display.php:220
+msgid "Show Excerpt"
+msgstr "Mostra Riassunto"
+
+#: admin/partials/acme-amazing-search-admin-display.php:224
+#: admin/partials/acme-amazing-search-admin-display.php:228
+msgid "Show Taxonomy"
+msgstr "Mostra Tassonomia"
+
+#: admin/partials/acme-amazing-search-admin-display.php:232
+#: admin/partials/acme-amazing-search-admin-display.php:234
+msgid "Number of results in drop-down:"
+msgstr "Numero dei risultati da mostrare:"
+
+#: admin/partials/acme-amazing-search-admin-display.php:240
+#: admin/partials/acme-amazing-search-admin-display.php:242
+msgid "Response trim size:"
+msgstr "Lunghezza massima di ciascun risultato:"
+
+#: admin/partials/acme-amazing-search-admin-display.php:248
+msgid "Separation String:"
+msgstr "Carattere di Separazione:"
+
+#: admin/partials/acme-amazing-search-admin-display.php:250
+msgid "Separation string"
+msgstr "Carattere di separazione"
+
+#: admin/partials/acme-amazing-search-admin-display.php:256
+msgid "Cache Control:"
+msgstr "Controllo della cache:"
+
+#: admin/partials/acme-amazing-search-admin-display.php:260
+#: admin/partials/acme-amazing-search-admin-display.php:264
+msgid "Automatic Caching"
+msgstr "Caching Automatico"
+
+#: admin/partials/acme-amazing-search-admin-display.php:267
+msgid ""
+"Automatic Caching is triggered to Save Post hook. This is usually fine over "
+"most installations but may run into some 502 error or server timeout. This "
+"depends on Database Size and Server Environments. If you experience latency "
+"or slowness you can disable the auto caching and try manual caching down "
+"here."
+msgstr ""
+"Il Caching Automatico è legato allo hook Save Post. Questa opzione funziona "
+"correttamente nella maggior parte dei sistemi, ma talvolta può generare un "
+"errore 502 oppure un timeout del server. Questo può dipendere dalla "
+"dimensione del Database, oppure dalla configurazione del Server. Se "
+"verifichi rallentamenti e latenze, puoi disabilitare questa opzione e "
+"provare il caching manuale con il pulsante qui sotto."
+
+#: admin/partials/acme-amazing-search-admin-display.php:269
+msgid "Cache Status:"
+msgstr "Stato della Cache:"
+
+#: admin/partials/acme-amazing-search-admin-display.php:276
+msgid "Cache Now"
+msgstr "Aggiorna la Cache"
+
+#: admin/partials/acme-amazing-search-admin-display.php:278
+msgid "Save all changes"
+msgstr "Salva"
+
+#: public/class-acme-amazing-search-public.php:127
+msgid "Cache Folder is empty. Actually you are not caching results."
+msgstr "La Cache è vuota. Al momento non stai usanto il caching dei risultati."
+
+#: public/class-acme-amazing-search-public.php:140
+msgid "Cache run. Cache status follows:"
+msgstr "Cache aggiornata. Di seguito lo stato della Cache"
+
+#: public/class-acme-amazing-search-public.php:348
+msgid "Show All"
+msgstr "Mostra tutto"
+
+#: public/partials/acme-amazing-search-public-shortcodes.php:29
+msgid "Search..."
+msgstr "Cerca..."

@@ -1,0 +1,172 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Acme Amazing Search\n"
+"POT-Creation-Date: 2016-10-23 14:40+0200\n"
+"PO-Revision-Date: 2016-10-23 15:01+0200\n"
+"Last-Translator: Mirko Bianco <mirko@acmemk.com>\n"
+"Language-Team: \n"
+"Language: en_001\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7.1\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: languages\n"
+"X-Poedit-SearchPath-1: .\n"
+
+#: admin/class-acme-amazing-search-admin.php:131
+msgid "Settings"
+msgstr "Settings"
+
+#: admin/partials/acme-amazing-search-admin-display.php:58
+msgid "Main Settings"
+msgstr "Main Settings"
+
+#: admin/partials/acme-amazing-search-admin-display.php:60
+#: admin/partials/acme-amazing-search-admin-display.php:64
+msgid "Search in Posts"
+msgstr "Search in Posts"
+
+#: admin/partials/acme-amazing-search-admin-display.php:68
+#: admin/partials/acme-amazing-search-admin-display.php:72
+msgid "Search in Pages"
+msgstr "Search in Pages"
+
+#: admin/partials/acme-amazing-search-admin-display.php:77
+#: admin/partials/acme-amazing-search-admin-display.php:81
+msgid "Search in Products"
+msgstr "Search in Products"
+
+#: admin/partials/acme-amazing-search-admin-display.php:86
+#: admin/partials/acme-amazing-search-admin-display.php:88
+msgid "Search in custom post-types:"
+msgstr "Search in custom post-types:"
+
+#: admin/partials/acme-amazing-search-admin-display.php:91
+#: admin/partials/acme-amazing-search-admin-display.php:144
+msgid "(Comma separated values with no spaces)"
+msgstr "(Comma separated values with no spaces)"
+
+#: admin/partials/acme-amazing-search-admin-display.php:95
+msgid "Extend search:"
+msgstr "Extend search:"
+
+#: admin/partials/acme-amazing-search-admin-display.php:97
+#: admin/partials/acme-amazing-search-admin-display.php:101
+msgid "Search in Categories"
+msgstr "Search in Categories"
+
+#: admin/partials/acme-amazing-search-admin-display.php:105
+#: admin/partials/acme-amazing-search-admin-display.php:109
+msgid "Search in Tags"
+msgstr "Search in Tags"
+
+#: admin/partials/acme-amazing-search-admin-display.php:114
+#: admin/partials/acme-amazing-search-admin-display.php:118
+msgid "Search in Brands"
+msgstr "Search in Brands"
+
+#: admin/partials/acme-amazing-search-admin-display.php:122
+#: admin/partials/acme-amazing-search-admin-display.php:126
+msgid "Search in Product Categories"
+msgstr "Search in Product Categories"
+
+#: admin/partials/acme-amazing-search-admin-display.php:130
+#: admin/partials/acme-amazing-search-admin-display.php:134
+msgid "Search in Product Tags"
+msgstr "Search in Product Tags"
+
+#: admin/partials/acme-amazing-search-admin-display.php:139
+#: admin/partials/acme-amazing-search-admin-display.php:141
+msgid "Search in custom terms:"
+msgstr "Search in custom terms:"
+
+#: admin/partials/acme-amazing-search-admin-display.php:148
+msgid "Search Options:"
+msgstr "Search Options:"
+
+#: admin/partials/acme-amazing-search-admin-display.php:150
+#: admin/partials/acme-amazing-search-admin-display.php:154
+msgid "Search in Title"
+msgstr "Search in Title"
+
+#: admin/partials/acme-amazing-search-admin-display.php:158
+#: admin/partials/acme-amazing-search-admin-display.php:162
+msgid "Search in Excerpt"
+msgstr "Search in Excerpt"
+
+#: admin/partials/acme-amazing-search-admin-display.php:166
+msgid "Show All behaviour:"
+msgstr "Show All behaviour:"
+
+# This is the label for the "show all" options. When search function returns a unique value for taxonomy, the "Show all" button, placed at the end of the dropdown, can send the visitor to that taxonomy instead of sending to standard WP search results page.
+#: admin/partials/acme-amazing-search-admin-display.php:168
+msgid "<i>Show All</i> behaviour:"
+msgstr "<i>Show All</i> behaviour:"
+
+# This is an option for the "show all" funciotn. When search function returns a unique value for taxonomy, the "Show all" button, placed at the end of the dropdown, will send the visitor to standard WP search results page.
+#: admin/partials/acme-amazing-search-admin-display.php:170
+msgid "Do default WordPress search"
+msgstr "Do default WordPress search"
+
+# This is an option for the "show all" button. When search function returns a unique value for taxonomy, the "Show all" button, placed at the end of the dropdown, will send the visitor to that taxonomy instead of sending to standard WP search results page.
+#: admin/partials/acme-amazing-search-admin-display.php:171
+msgid "Category/Tag unique result"
+msgstr "Category/Tag unique result"
+
+#: admin/partials/acme-amazing-search-admin-display.php:176
+msgid "Search Results:"
+msgstr "Search Results:"
+
+#: admin/partials/acme-amazing-search-admin-display.php:178
+#: admin/partials/acme-amazing-search-admin-display.php:180
+msgid "Show all text:"
+msgstr "Show all text:"
+
+#: admin/partials/acme-amazing-search-admin-display.php:186
+#: admin/partials/acme-amazing-search-admin-display.php:190
+msgid "Show Title"
+msgstr "Show Title"
+
+#: admin/partials/acme-amazing-search-admin-display.php:194
+#: admin/partials/acme-amazing-search-admin-display.php:198
+msgid "Show Excerpt"
+msgstr "Show Excerpt"
+
+#: admin/partials/acme-amazing-search-admin-display.php:202
+#: admin/partials/acme-amazing-search-admin-display.php:206
+msgid "Show Taxonomy"
+msgstr "Show Taxonomy"
+
+#: admin/partials/acme-amazing-search-admin-display.php:210
+#: admin/partials/acme-amazing-search-admin-display.php:212
+msgid "Number of results in drop-down:"
+msgstr "Number of results in drop-down:"
+
+#: admin/partials/acme-amazing-search-admin-display.php:218
+#: admin/partials/acme-amazing-search-admin-display.php:220
+msgid "Response trim size:"
+msgstr "Response trim size:"
+
+#: admin/partials/acme-amazing-search-admin-display.php:226
+msgid "Separation String:"
+msgstr "Separation String:"
+
+#: admin/partials/acme-amazing-search-admin-display.php:228
+msgid "Separation string"
+msgstr "Separation string"
+
+#: admin/partials/acme-amazing-search-admin-display.php:233
+msgid "Save all changes"
+msgstr "Save all changes"
+
+#: public/class-acme-amazing-search-public.php:221
+msgid "Show All"
+msgstr "Show All"
+
+#: public/partials/acme-amazing-search-public-shortcodes.php:28
+msgid "Search..."
+msgstr "Search..."

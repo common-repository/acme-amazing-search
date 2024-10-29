@@ -1,0 +1,225 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Acme Amazing Search\n"
+"POT-Creation-Date: 2016-12-30 11:12+0100\n"
+"PO-Revision-Date: 2017-01-01 14:24+0100\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7.1\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"Last-Translator: Mirko Bianco <mirko@acmemk.com>\n"
+"Language: es\n"
+"X-Poedit-SearchPath-0: languages\n"
+"X-Poedit-SearchPath-1: .\n"
+
+#: admin/class-acme-amazing-search-admin.php:125
+msgid "Settings"
+msgstr "Configuraciones"
+
+#: admin/partials/acme-amazing-search-admin-display.php:60
+msgid "Main Settings"
+msgstr "Configuraciones Principales"
+
+#: admin/partials/acme-amazing-search-admin-display.php:62
+#: admin/partials/acme-amazing-search-admin-display.php:66
+msgid "Search in Posts"
+msgstr "Buscar en Posts"
+
+#: admin/partials/acme-amazing-search-admin-display.php:70
+#: admin/partials/acme-amazing-search-admin-display.php:74
+msgid "Search in Pages"
+msgstr "Buscar en Páginas"
+
+#: admin/partials/acme-amazing-search-admin-display.php:79
+#: admin/partials/acme-amazing-search-admin-display.php:83
+msgid "Search in Products"
+msgstr "Buscar en Productos"
+
+#: admin/partials/acme-amazing-search-admin-display.php:87
+#: admin/partials/acme-amazing-search-admin-display.php:91
+msgid "Search in SKU"
+msgstr "Buscar en referencia SKU"
+
+#: admin/partials/acme-amazing-search-admin-display.php:96
+#: admin/partials/acme-amazing-search-admin-display.php:98
+msgid "Search in custom post-types:"
+msgstr "Buscar en post personalizado del tipo:"
+
+#: admin/partials/acme-amazing-search-admin-display.php:101
+#: admin/partials/acme-amazing-search-admin-display.php:154
+msgid "(Comma separated values with no spaces)"
+msgstr "(Valores separados por comas sin espacios)"
+
+#: admin/partials/acme-amazing-search-admin-display.php:105
+msgid "Extend search:"
+msgstr "Ampliar la búsqueda:"
+
+#: admin/partials/acme-amazing-search-admin-display.php:107
+#: admin/partials/acme-amazing-search-admin-display.php:111
+msgid "Search in Categories"
+msgstr "Buscar en Categorías"
+
+#: admin/partials/acme-amazing-search-admin-display.php:115
+#: admin/partials/acme-amazing-search-admin-display.php:119
+msgid "Search in Tags"
+msgstr "Buscar en Tags (Etiquetas)"
+
+#: admin/partials/acme-amazing-search-admin-display.php:124
+#: admin/partials/acme-amazing-search-admin-display.php:128
+msgid "Search in Brands"
+msgstr "Buscar en Marcas"
+
+#: admin/partials/acme-amazing-search-admin-display.php:132
+#: admin/partials/acme-amazing-search-admin-display.php:136
+msgid "Search in Product Categories"
+msgstr "Buscar en Categoría de Productos"
+
+#: admin/partials/acme-amazing-search-admin-display.php:140
+#: admin/partials/acme-amazing-search-admin-display.php:144
+msgid "Search in Product Tags"
+msgstr "Buscar en Tags (Etiquetas) de Producto"
+
+#: admin/partials/acme-amazing-search-admin-display.php:149
+#: admin/partials/acme-amazing-search-admin-display.php:151
+msgid "Search in custom terms:"
+msgstr "Buscar en términos personalizados:"
+
+#: admin/partials/acme-amazing-search-admin-display.php:158
+msgid "Search Options:"
+msgstr "Opciones de Búsqueda:"
+
+#: admin/partials/acme-amazing-search-admin-display.php:160
+#: admin/partials/acme-amazing-search-admin-display.php:164
+msgid "Search in Title"
+msgstr "Buscar en Título"
+
+#: admin/partials/acme-amazing-search-admin-display.php:168
+#: admin/partials/acme-amazing-search-admin-display.php:172
+msgid "Search in Excerpt"
+msgstr "Buscar en Extracto"
+
+#: admin/partials/acme-amazing-search-admin-display.php:176
+msgid "Show All behaviour:"
+msgstr "Mostrar todo el proceso"
+
+#: admin/partials/acme-amazing-search-admin-display.php:178
+msgid "<i>Show All</i> behaviour:"
+msgstr "<i>Mostrar Todo</i> proceso:"
+
+#: admin/partials/acme-amazing-search-admin-display.php:180
+msgid "Do default WordPress search"
+msgstr "Hacer predeterminada la búsqueda de WordPress"
+
+#: admin/partials/acme-amazing-search-admin-display.php:181
+msgid "Category/Tag unique result"
+msgstr "Categoría / Tag (Etiqueta) resultado único"
+
+#: admin/partials/acme-amazing-search-admin-display.php:186
+#: admin/partials/acme-amazing-search-admin-display.php:188
+msgid "WP Search in specific post_type:"
+msgstr "Búsqueda WP en tipo de post específico:"
+
+#: admin/partials/acme-amazing-search-admin-display.php:190
+msgid "default"
+msgstr "predeterminada"
+
+#: admin/partials/acme-amazing-search-admin-display.php:198
+msgid "Search Results:"
+msgstr "Resultados de la Búsqueda:"
+
+#: admin/partials/acme-amazing-search-admin-display.php:200
+#: admin/partials/acme-amazing-search-admin-display.php:202
+msgid "Show all text:"
+msgstr "Mostrar todo el texto:"
+
+#: admin/partials/acme-amazing-search-admin-display.php:208
+#: admin/partials/acme-amazing-search-admin-display.php:212
+msgid "Show Title"
+msgstr "Mostar título"
+
+#: admin/partials/acme-amazing-search-admin-display.php:216
+#: admin/partials/acme-amazing-search-admin-display.php:220
+msgid "Show Excerpt"
+msgstr "Mostrar Extracto"
+
+#: admin/partials/acme-amazing-search-admin-display.php:224
+#: admin/partials/acme-amazing-search-admin-display.php:228
+msgid "Show Taxonomy"
+msgstr "Mostrar Taxonomía"
+
+#: admin/partials/acme-amazing-search-admin-display.php:232
+#: admin/partials/acme-amazing-search-admin-display.php:234
+msgid "Number of results in drop-down:"
+msgstr "Número de resultados en desplegable:"
+
+#: admin/partials/acme-amazing-search-admin-display.php:240
+#: admin/partials/acme-amazing-search-admin-display.php:242
+msgid "Response trim size:"
+msgstr "Tamaño del ajuste de respuesta:"
+
+#: admin/partials/acme-amazing-search-admin-display.php:248
+msgid "Separation String:"
+msgstr "Secuencia de Separación:"
+
+#: admin/partials/acme-amazing-search-admin-display.php:250
+msgid "Separation string"
+msgstr "Secuencia de separación"
+
+#: admin/partials/acme-amazing-search-admin-display.php:256
+msgid "Cache Control:"
+msgstr "Control de Caché:"
+
+#: admin/partials/acme-amazing-search-admin-display.php:260
+#: admin/partials/acme-amazing-search-admin-display.php:264
+msgid "Automatic Caching"
+msgstr "Almacenamiento en caché automático"
+
+#: admin/partials/acme-amazing-search-admin-display.php:267
+msgid ""
+"Automatic Caching is triggered to Save Post hook. This is usually fine over "
+"most installations but may run into some 502 error or server timeout. This "
+"depends on Database Size and Server Environments. If you experience latency "
+"or slowness you can disable the auto caching and try manual caching down "
+"here."
+msgstr ""
+"Se activa el almacenamiento en caché automático para guardar el hook del "
+"Post. Esto suele funcionar bien en la mayoría de las instalaciones, pero "
+"puede tener algún error 502 o error en el tiempo de espera del servidor. "
+"Esto depende del tamaño de la base de datos y de los entornos del servidor. "
+"Si experimenta latencia o lentitud, puede deshabilitar la caché automática "
+"e intentar almacenar en caché manualmente aquí."
+
+#: admin/partials/acme-amazing-search-admin-display.php:269
+msgid "Cache Status:"
+msgstr "Estado del Caché:"
+
+#: admin/partials/acme-amazing-search-admin-display.php:276
+msgid "Cache Now"
+msgstr "Caché Now"
+
+#: admin/partials/acme-amazing-search-admin-display.php:278
+msgid "Save all changes"
+msgstr "Guardar todos los cambios"
+
+#: public/class-acme-amazing-search-public.php:127
+msgid "Cache Folder is empty. Actually you are not caching results."
+msgstr ""
+"La carpeta de caché está vacía. Actualmente no se están almacenando en "
+"caché los resultados."
+
+#: public/class-acme-amazing-search-public.php:140
+msgid "Cache run. Cache status follows:"
+msgstr "Ejecutar caché. El estado del caché es el siguiente:"
+
+#: public/class-acme-amazing-search-public.php:348
+msgid "Show All"
+msgstr "Mostrar Todo"
+
+#: public/partials/acme-amazing-search-public-shortcodes.php:29
+msgid "Search..."
+msgstr "Buscar..."

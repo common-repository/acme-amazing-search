@@ -1,0 +1,72 @@
+
+/*   RESULTS WRAPPER STYLES */
+
+.aas_result_wrapper {
+    background-color: #fafafa;
+    width: 100%;
+    font-size: 13px;
+    padding: 20px 15px;
+    color: #666666;
+    font-weight: 600;
+}
+
+.aas_result_wrapper li {
+    cursor: pointer;
+}
+.aas_result_wrapper li:hover {
+    cursor: pointer;
+    color: #333333;
+}
+
+.aas_result_wrapper li.ui-menu-item:last-of-type {
+    background-color: #ffffff;
+    color: #666666;
+    font-size: 13px;
+    text-transform: uppercase;
+    padding-left: 10px;
+    margin-top: 20px;
+}
+
+/*  FRONT-END SEARCH BOX STYLES*/
+
+div.aas-container {
+    text-align: center;
+    margin: 5px auto 5px auto;
+}
+
+div.aas-container {
+    width: 100%;
+}
+
+div.aas-container label {
+    /*font-family: Folks;*/
+    margin-right: 20px;
+}
+
+div.aas-container input {
+    width: 100%;
+    font-size: 13px;
+    padding: 11px 15px;
+    background-color: #f4f4f4;
+    border: 0;
+}
+
+.ui-autocomplete-loading{
+    background: url(spinner.gif) no-repeat left center;
+}
+
+
+
+/*
+let's hide the helper
+*/
+.ui-helper-hidden-accessible {
+    border: 0;
+    clip: rect(0 0 0 0);
+    height: 1px;
+    margin: -1px;
+    overflow: hidden;
+    padding: 0;
+    position: absolute;
+    width: 1px;
+}
